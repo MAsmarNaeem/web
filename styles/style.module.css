@@ -1,0 +1,16 @@
+
+.change{
+    margin-top: 30px;
+    background-color: rgb(185, 196, 206);
+    height: 700px;
+    width: auto;
+}
+
+.footer{
+  
+    background-color: rgb(100, 100, 100);
+    text-decoration: rgb(0, 0, 0);
+    height: 600px;
+    width: auto;
+    margin-bottom: 50px;
+}
